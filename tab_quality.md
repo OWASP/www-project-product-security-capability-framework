@@ -1,5 +1,5 @@
 ---
-title: quality_control
+title: Quality
 displaytext: Quality Control
 layout:  null
 tab: true

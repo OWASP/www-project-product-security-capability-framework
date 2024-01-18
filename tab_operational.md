@@ -1,5 +1,5 @@
 ---
-title: operational_visibility
+title: Operational
 displaytext: Operational Visibility
 layout:  null
 tab: true

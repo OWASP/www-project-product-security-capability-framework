@@ -1,5 +1,5 @@
 ---
-title: secure_product_management
+title: Management
 displaytext: Secure Product Management
 layout:  null
 tab: true

@@ -1,5 +1,5 @@
 ---
-title: risk_management
+title: Risk
 displaytext: Risk Management
 layout:  null
 tab: true

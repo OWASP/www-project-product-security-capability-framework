@@ -1,5 +1,5 @@
 ---
-title: secure_product_implementation
+title: Implementation
 displaytext: Secure Product Implementation
 layout:  null
 tab: true

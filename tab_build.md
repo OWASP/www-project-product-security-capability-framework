@@ -1,5 +1,5 @@
 ---
-title: secure_build_deployment
+title: Build
 displaytext: Secure Build And Deployment
 layout:  null
 tab: true
