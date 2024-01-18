@@ -1,5 +1,6 @@
 ---
-title: Secure Product Management
+title: secure_product_management
+displaytext: Secure Product Management
 layout:  null
 tab: true
 order: 2

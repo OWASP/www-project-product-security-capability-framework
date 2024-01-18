@@ -1,5 +1,6 @@
 ---
-title: Secure Product Implementation
+title: secure_product_implementation
+displaytext: Secure Product Implementation
 layout:  null
 tab: true
 order: 3

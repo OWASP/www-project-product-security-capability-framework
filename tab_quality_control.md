@@ -1,5 +1,6 @@
 ---
-title: Quality Control
+title: quality_control
+displaytext: Quality Control
 layout:  null
 tab: true
 order: 5

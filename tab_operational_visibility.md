@@ -1,5 +1,6 @@
 ---
-title: Operational Visibility
+title: operational_visibility
+displaytext: Operational Visibility
 layout:  null
 tab: true
 order: 6

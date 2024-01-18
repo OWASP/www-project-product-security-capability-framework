@@ -1,5 +1,6 @@
 ---
-title: Secure Build And Deployment
+title: secure_build_deployment
+displaytext: Secure Build And Deployment
 layout:  null
 tab: true
 order: 4

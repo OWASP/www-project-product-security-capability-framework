@@ -1,5 +1,6 @@
 ---
-title: Risk Management
+title: risk_management
+displaytext: Risk Management
 layout:  null
 tab: true
 order: 1
