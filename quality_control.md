@@ -3,7 +3,6 @@ title: Quality Control
 layout:  null
 tab: true
 order: 5
-tags: Quality Control
 ---
 
 ### Quality Control

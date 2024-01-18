@@ -3,7 +3,6 @@ title: Risk Management
 layout:  null
 tab: true
 order: 1
-tags: Risk Management
 ---
 
 ### Risk Management	

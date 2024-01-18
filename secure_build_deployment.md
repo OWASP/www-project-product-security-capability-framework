@@ -3,7 +3,6 @@ title: Secure Build And Deployment
 layout:  null
 tab: true
 order: 4
-tags: Secure Build And Deployment
 ---
 
 ### Secure Build And Deployment

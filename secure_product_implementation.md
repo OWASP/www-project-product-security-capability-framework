@@ -3,7 +3,6 @@ title: Secure Product Implementation
 layout:  null
 tab: true
 order: 3
-tags: Secure Product Implementation
 ---
 
 ### Secure Product Implementation
