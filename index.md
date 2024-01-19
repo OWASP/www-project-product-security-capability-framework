@@ -1,12 +1,12 @@
 ---
-
 layout: col-sidebar
 title: OWASP Product Security Capabilities Framework
-tags: example-tag
+site_side: true
+tags: pscf
+project: true
 level: 2
 type: documentation
 pitch: The capabilities required for product teams to build secure products in a secure manner.
-
 ---
 
 ## The OWASP Product Security Capabilities Framework (PSCF) 
