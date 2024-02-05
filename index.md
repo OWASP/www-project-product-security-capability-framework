@@ -9,8 +9,9 @@ type: documentation
 pitch: The capabilities required for product teams to build secure products in a secure manner.
 ---
 [![OWASP Labs](https://img.shields.io/badge/owasp-lab%20project-yellow)](https://owasp.org/other_projects/)
-[![GitHub Release](https://img.shields.io/github/release/OWASP/PSCF)](https://github.com/OWASP/SAMM/releases)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/owasppscf.svg?logo=twitter)](https://twitter.com/owasppscf)
+[![GitHub Release](https://img.shields.io/github/release/OWASP/PSCF)](https://github.com/OWASP/PSCF/releases)
+
+[//]: # ([![Follow on Twitter]&#40;https://img.shields.io/twitter/follow/owasppscf.svg?logo=twitter&#41;]&#40;https://twitter.com/owasppscf&#41;)
 
 ## The OWASP Product Security Capabilities Framework (PSCF) 
 This is the **OWASP framework** for building security capabilities into your product delivery process and teams. 

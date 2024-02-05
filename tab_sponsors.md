@@ -9,10 +9,8 @@ tags: pscf
 
 ## Call for Sponsors
 
-### Project Sponsors
+The PSCF would not have been possible without the project's sponsors and supporters. 
+
+### Project Sponsors & Supporters
 
 {% include sponsors.md data=site.data.sponsors %}
-
-### Project Supporters
-
-{% include supporters.md data=site.data.supporters %}
