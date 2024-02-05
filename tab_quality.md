@@ -4,7 +4,7 @@ displaytext: Quality Control
 layout:  null
 tab: true
 order: 5
-tags: pscf
+tags: pscf-details
 ---
 
 ### Quality Control

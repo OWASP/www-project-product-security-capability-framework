@@ -4,7 +4,7 @@ displaytext: Secure Build And Deployment
 layout:  null
 tab: true
 order: 4
-tags: pscf
+tags: pscf-details
 ---
 
 ### Secure Build And Deployment

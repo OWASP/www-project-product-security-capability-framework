@@ -4,7 +4,7 @@ displaytext: Risk Management
 layout:  null
 tab: true
 order: 1
-tags: pscf
+tags: pscf-details
 ---
 
 ### Risk Management	
