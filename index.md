@@ -34,7 +34,7 @@ The framework currently consists of six (6) process areas and thirty-two (32) ca
 <br>
 
 
-The current 1.0 version of the framework is available [here](https://docs.google.com/spreadsheets/d/1GiQSePaFkY-wFj3RP3VUkZA81Pqzyhn9x78fSL2OTk8/edit#gid=0) in Google Sheets and anyone with an @owasp.org email address can comment and contribute there.
+The current 1.0 version of the framework is available [here](https://docs.google.com/spreadsheets/d/1GiQSePaFkY-wFj3RP3VUkZA81Pqzyhn9x78fSL2OTk8/edit#gid=0) in Google Sheets and anyone with can comment and contribute there.
 
 The Sheet allows someone to do an assessment of their own organisation's capabilities and get a report. 
 
