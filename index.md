@@ -8,7 +8,7 @@ level: 2
 type: documentation
 pitch: The capabilities required for product teams to build secure products in a secure manner.
 ---
-[![OWASP Labs](https://img.shields.io/badge/owasp-lab%20project-yellow)](https://owasp.org/other_projects/)
+[![OWASP Labs](https://img.shields.io/badge/owasp-incubator%20project-blue)](https://owasp.org/other_projects/)
 [![GitHub Release](https://img.shields.io/github/release/OWASP/PSCF)](https://github.com/OWASP/PSCF/releases)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/owasppscf.svg?logo=twitter)](https://twitter.com/owasppscf)
 
