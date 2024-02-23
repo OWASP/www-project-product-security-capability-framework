@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: OWASP Product Security Capabilities Framework
+title: OWASP Product Security Capability Framework
 site_side: true
 tags: pscf
 project: true
@@ -11,8 +11,10 @@ pitch: The capabilities required for product teams to build secure products in a
 [![OWASP Labs](https://img.shields.io/badge/owasp-incubator%20project-blue)](https://owasp.org/other_projects/)
 [![GitHub Release](https://img.shields.io/github/release/OWASP/PSCF)](https://github.com/OWASP/PSCF/releases)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/owasppscf.svg?logo=twitter)](https://twitter.com/owasppscf)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8385/badge)](https://www.bestpractices.dev/projects/8385)
 
-## The OWASP Product Security Capabilities Framework (PSCF) 
+
+## The OWASP Product Security Capability Framework (PSCF) 
 This is the **OWASP framework** for building security capabilities into your product delivery process and teams. 
 
 The main website for the PSCF is on [Prods.ec](https://prods.ec/) and includes many more details about the Framework along with explanatory videos.
@@ -29,7 +31,7 @@ The framework currently consists of six (6) process areas and thirty-two (32) ca
 
 <br>
 
-[![PSCF ](assets/images/pscf-meta-analysis.png)](https://prods.ec/)
+[![PSCF ](https://raw.githubusercontent.com/OWASP/www-project-product-security-capability-framework/main/assets/images/pscf-meta-analysis.png)](https://prods.ec/)
 <br>
 <br>
 
