@@ -8,16 +8,17 @@ level: 2
 type: documentation
 pitch: The capabilities required for product teams to build secure products in a secure manner.
 ---
-[![OWASP Labs](https://img.shields.io/badge/owasp-incubator%20project-blue)](https://owasp.org/other_projects/)
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator%20project-blue)](https://owasp.org/other_projects/)
 [![GitHub Release](https://img.shields.io/github/release/OWASP/PSCF)](https://github.com/OWASP/PSCF/releases)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/owasppscf.svg?logo=twitter)](https://twitter.com/owasppscf)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8385/badge)](https://www.bestpractices.dev/projects/8385)
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/5449a4d61cdfed258204/maintainability)](https://codeclimate.com/github.com/OWASP/PSCF/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/5449a4d61cdfed258204/test_coverage)](https://codeclimate.com/github.com/OWASP/PSCF/test_coverage)
 
 ## The OWASP Product Security Capability Framework (PSCF) 
 This is the **OWASP framework** for building security capabilities into your product delivery process and teams. 
 
-The main website for the PSCF is on [Prods.ec](https://prods.ec/) and includes many more details about the Framework along with explanatory videos.
+The main website for the PSCF is on [Prodsec](https://prodsec.owasp.org/) and includes many more details about the Framework along with explanatory videos.
 
 We created the Product Security Capability Framework to provide a clear way of thinking about software product security and the delivery activities that lead to building and maintaining the right level of security for your customers and your organisation.
 
@@ -31,7 +32,7 @@ The framework currently consists of six (6) process areas and thirty-two (32) ca
 
 <br>
 
-[![PSCF ](https://raw.githubusercontent.com/OWASP/www-project-product-security-capability-framework/main/assets/images/pscf-meta-analysis.png)](https://prods.ec/)
+[![PSCF ](https://raw.githubusercontent.com/OWASP/www-project-product-security-capability-framework/main/assets/images/pscf-meta-analysis.png)](https://prodsec.owasp.org/)
 <br>
 <br>
 
@@ -40,4 +41,4 @@ The current 1.0 version of the framework is available [here](https://docs.google
 
 The Sheet allows someone to do an assessment of their own organisation's capabilities and get a report. 
 
-The full text and multimedia site is available on [Prods.ec](https://prods.ec/)
+The full text and multimedia site is available on [Prodsec](https://prodsec.owasp.org/)
