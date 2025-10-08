@@ -1,0 +1,29 @@
+audience:
+  - builder
+leaders:
+  - name: Toby Irvine
+    email: toby.irvine@owasp.org
+    github: tobyirvine
+  - name: Grant Ongers
+    email: grant.ongers@owasp.org
+    github: rewtd
+  - name: Andrew Gordon-Brooks
+    email: andrew.gordon-brooks@owasp.org
+    github: agordonbrooks
+level: 2
+license:
+  - CC-BY-SA-4.0
+name: OWASP Product Security Capability Framework
+pitch: The capabilities required for product teams to build secure products in a secure manner.
+repositories:
+  - name: www-project-product-security-capability-framework
+    url: https://github.com/OWASP/www-project-product-security-capability-framework
+    description: OWASP Foundation Web Repository
+  - name: PSCF
+    url: https://github.com/OWASP/PSCF
+tags:
+  - pscf
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-product-security-capability-framework
